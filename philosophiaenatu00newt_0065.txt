@@ -1,0 +1,57 @@
+PRINCIPIA MATHEMATICA. 31
+
+concurrentes in G3 dein accedant pometa D, Β, G, ad punffla d,b, g, mem,
+fitque J interseeho lmearum B G, AG ultimo faeta ubi puncffa J), BPanms..
+accedunt usque ad A. Manifestum est quod distantia G J minos
+effe potest quam affignata quaevis, Est autem (ex natura circulorum
+per puneta ABG, Abg transeuntium) AB quad. '
+aequale AG>< BD δε Ab quad. aequale Ag ><bd‚ AT&
+
+    
+
+adeoque ratio AB quad. ad Ab quad. componi· c -
+tur ex rationibus AG ad Ag & BD ad bd. Sed C
+
+quoniam GJ affumi potest minor longitudine
+quavis affignata ‚ fieri potest ut ratio AG ad
+Ag minus differat a ratione aequalitatis quam
+pro differentia quavis affignata, adeoque ut ra-
+
+tio AB quad. ad Ab quad. minus differat ara-
+tione BD ad bd quam pro differentia quavis as-
+figmata. Est ergo , per Lemma 1, ratio ultima
+AB quad. ad Ab quad. aequalis rationi uhimae J
+BDadbd. QEUD ἒ
+Cas 2. Inclinetur jam BD ad AD in angulo G
+quovis dato ‚ ἃ eadem semper erit ratio ultima BD ad bd ‘quae prius„-
+adeoque eadem ae AB quad. ad Ab quad. QE D.
+’ Cas 3. Et quamvis angulus D non detur, sed refta BD ad da«
+tum punPtum convergente, vel alia quacunque lege constituatur 32
+tamen anguli D, dcommuni lege constituti ad aequalitatem semper·
+vergent ἃ propius accedent ad invicem quam pro differentia quant
+
+vm affignata ‚ adeoque ultimo aequales erunt, per Lem. 1, & pro-
+pterea lineae BD, bd sunt in eadem ratione ad invicem ac priua..
+
+Ξἶίέοῖνοῗι Unde cum tangentes AD, Ad, arcus AB, Ab, &eo-
+
+“ rum finus BC, hc fiant ultimo chordis AB, Ab, aequalesqerunt.
+etiam illorum quadrata ultimo ut subtensae BD, bd.
+
+Corol. 2. Eorundem quadrata sunt etiam ultimo ut sunt arcuum-
+sagittae quae chordas bisecant ἅτ ad datum punetum convergunt,
+
+Nam sagittae iuae sunt ut subtensae BD, bd.
+Corol. 3· Ideoque sagi-tta est in duplicata ratione temporis quoi
+
+corpus data velocitate deffcribit arcum.
+Corol. 4. Triangula reetilinea AD B, Adb sunt ultimo in tripffica-
+
+ta ratione lat-erum AD, Ad, inque sesquiplicata laterum DE, Δίας.
+utpote in compofita ratione laterum AD, & DB, Ad& db exi==
+stentia. Sic & triangula ABG, Abc sunt ultimo in triplicata ratio-
+ne laterum BC, hc. Rationem vero sesquiplicatam voco triplicatae
+subduplicatam, quae nempe ex fimpxiei ὅ( subduplicata componitur,
+
+quamque alias sesquialteram dicunt. C0r05,1
+

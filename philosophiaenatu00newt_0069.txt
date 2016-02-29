@@ -1,0 +1,58 @@
+PRINCIPIA MATHEMATICA. 35
+
+eodem plano cum'triangulo ΑΕΒ. Junge SQ δε triangulum SBQ annsn
+
+ob parallelas SB, Cc, aequale erit triangulo SBc, atque ad eo etiam Pin-au
+
+triangulo SAB. Simili argumento fi vis centripeta successive agat
+
+in C, Ἰ), Ε, &o faciens ut corpus fingulis temporis particulis lin- ’
+
+⁷ gulas describat rectas CD, DE, EF, &c jacebunt hae omnes in
+eodem plan03 δε trian ulum SCD triangulo SBC, δε ΣἙΕ ipfi
+SCD, Se SEF ipfi S E aequale erit. AEqualibus igitur tempo-.
+ribus aequales areae in plano immoto describuntur : & componendo,
+sunt arearum fummae quaevis SADS, SAFS inter se, ut sunt tem-
+pora descriptionum. Augeatur jam numerus δε minuatur latitudo
+triangulorum· in infinitum; & eorum ultima perimeter A‘DF, (per
+Corollarium quartum Lemmatis tertii) erit linea curva: adeoque
+vis centripeta‚ qua corpus a tangente hujus curvae perpetuo retra-
+hitur ‚ aget indefinente1·; areae vero quaevis descriptae SAsD S„
+SAF S temporibus* descriptionum semper proportionales ‚ erunt
+iisdem temporibus in hoc casu proportionales. Q E. D.
+
+Corol. 1. velocitas corporis in centrum immobile attracti est in
+spatiis non resistentibus reciproce ut perpendiculum, a centroilloin
+Orbis tangentem rectilineam demiffum, Est enim velocitas in locis
+
+illis A, B ‚ C,‘D‚E ‚ut sunt bases aequalium triangulorum AB, BC,
+” ἔΊ),ῗΓ)Ε,ΕΕ; & hae bases sunt reciproce ut perpendicula in ipsas
+
+emi a.
+
+Corol. 2. Si arcuum duorum aequalibus temporibus in spatiis non
+refistentibus ab eodem corpore succeffive descriptorum chordae AB,
+BG compleantur in parallelogrammum AB C U, δε hujus diagona-
+lisB U in ea positione quam ultimo habet ubi arcus illi in infini-
+tum diminuuntur , producatur utrinque ; transibit eadem per cen-
+trum vlrlum. »ν
+
+Corol. 3. Si arcuum aequalibus temporibus in spatiis non refisten-
+tibus descriptorum chordae AB, BC ac DE, EF compleantur in
+parallelogramma AB GU, DE F Z ; vires in B <Sc E sunt ad invi-
+
+cem in ultima ratione diagonalium BU ‚ E Z ‚ ubi arcus isti in infir
+
+nitum diminuuntur. Nam corporis motus BC & EF componun-
+tur (per Legum Corol. 1.) ex motibus Bc, B U & Ef, EZ: atqui
+B U δε ΕΖ ipsis Cc δὲ F f aequales, in Demonstratione Propofitio-
+nis hujus generabantur ab impulsibus vis centripetae in B & E, ideo-
+que sunt his impulfibus proportionales.
+
+Corol. 4. Vires quibus corpora quaelibet in spatiis non refistenti-
+bus amotibus rectilineis retrahuntur ae detorquentur in orbes cur-
+vos sunt inter se ut arcuum aequalibus temporibus descriptorum
+sagittae illae quae convergunt ad centrum virium, δε chordas bisecant
+
+h. 2 ubi
+

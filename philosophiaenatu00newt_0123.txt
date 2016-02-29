@@ -1,0 +1,47 @@
+PRINCIPIA MATHEMATICA: 81·
+
+Dico praeterea quod fi'recta aliqua tangat lineam curvam in Lxfflt ·
+figura prima , haeC recrateodem modo cum curva in figuram no-PMMW?
+vam transsata tanget lineam illam curvam in figura nova: ἃ con-
+tra. Nam fi Curvae puncta quaevis duo accedunt ad invicem Sc
+coeunt in figura prima, puncta eadem transsata accedent ad in-
+vicem & coibunt in ngura nova ‚ atque adeo rectae ‚ quibus haec
+puncta junguntur ‚ simul evadent curvarum tangentes in figura c
+utraque. Componi poffent harum affertionum Demonstrationes
+more magis Geometrico. Sed brevitati consulo.
+
+- Igitur fi figura rectilinea in aliam transmutanda est, sufficit rec-
+tarum a quibus conflatur interfectiones transferre , & per easdem
+in figura nova ‘lineas rectas ducere. Sin curvilineam transmutare
+oportet, transferenda sunt puncta, tangentes & 'aliae rectae quarum
+ope curva linea definitur. Inservit autem hoc Lemma solutioni
+’ difficiliorum problematum, transmutando figuras propofitas in fim-
+pliciores. Nam rectae quaevis convergentes transmutantur in pa-
+rallelas ‚ adhibendo pro radio ordinato primo ‚ lineam quamvis
+rectam quae peisconcursum convergentium transit : id adeo quia
+concursus ille hoc pacto abit in infinitum ‚ lineae autem parallelae
+sunt quae ad punctum infinite distans tendunt. Postquam autem
+Problema solvitur infigura nova, fi per inversas operationes trans-
+mutetur haec figura in figuram. primam ‚ habebitur solutio quaesita.
+
+Utile est etiam hoc Lemma in solutione Solidorum Problema-
+tum. Nam quoties duae sectiones Conicae obvenerint ‚ quarum ’
+intersectione problema solvi potest ‚ transmutare licet earum al- γ
+terutram‚ fi Hyperbola fit vel parabola , in Ellipfin: deinde ffl-
+lipfis facile mutatur in Circulum. Recta item ὅ( sectio Conica ‚
+in constructione Planorum problematum, vertuntur in Rectam δε
+
+Circulum.
+
+PRopostho XXV. PROBLEMA XVII.
+
+Trajeeioriam defiribere quae per data duo punb'c'a transtbit
+- {⁶3³ reblas tres continget posttione datas.
+
+Per concursum tangentium quatumvis duarum cum se invicem,&
+eoncursutn tangentis tertiae curn recta illa, quae per puncta duo data
+transit, age rectam infinitam; eaque adhibita pro radio ordinato prl-
+
+mo, transmutetur figura‚per Lemnss superius ‚in figuram novamhln
+· ac
+

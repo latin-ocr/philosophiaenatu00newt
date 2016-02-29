@@ -1,0 +1,54 @@
+’ ter Figurae tangenti-
+
+84- PHILOSOPHIAE NATURALIS
+L E M M A xxiv. u
+
+Si 7⁶²5?ae tres tangant quamcunque Conisefflionem, quarum
+duae parallelaestnt ac demur pofitione; dico qu‘od Sec-
+tiom's semidiameter hisce duabus parallela ‚ stt media
+
+proportionalis inter harum segmenta ‚ punblis contabhmm ’ ’
+
+&rangewi tertiae interjeffi‘a.
+
+Sunto AF, GE pa- ,Β
+rallelae duae Conisec-
+tionem A D Β tan· 1· , ,Α
+gentes in A&B; 'EF
+recta tertia Conisec-
+tionem tangens in I,
+& occurrens prioribus
+tangentibus in F& G;
+fitque C ‘D semidiame-
+
+  
+
+ιιιιιιιιιιιιιιιιι
+
+bus parallela : Dico
+quod AF, CD, B G ,Δ --,
+{uggalceosntinue propor- G 2 Β
+
+Nam fi diametri conjugatae AB, ‘D M tangenti FG occurrant inf
+E & H, seque mutuo secent in C, δε compleatur parallelogram-
+mum IKCL3 erit, ex natura Sectionum Conicarum ‚ ut E C ad‘
+CAita CA ad CL, &ita divisim EC— CA ad CA—CL, seu
+EA ad AL, & composite EA ae EA -ι- AL scu EL ut ECad'
+EC-i- CA seu EB; adeoque (ob similitudinem triangulorum
+EAF, ELI, ECH, EBG) AF ad'LI ut CH ad BG. Est
+itidem, ex natura Sectionum Conicamm, LI (seu CK) ad CD· ·
+ut CD ad CH; atque, adeo ex aequo perturbate, AF ad CD ut
+C‘D ad BG. QED. ⁷
+
+Corol. 1. Hinc fi tangentes-duee F G ‚ PQtangentibus pai-aliea·
+lis AF, BG occurrant in F ἃ· G, P & Q, seque mutuo secent
+in Ως erit (ex aequo perturbate) AF ad BQ ut ΑΞ.) ad BG, ὃς
+d1v1s1m ut FP ad (ἦρ’.Χ atque adeo ut FO ad OG.
+
+Corol. 2 Unde etiam rectae duae PG, ΕΞ per puncta· P & G,
+
+F δε Qdu&ae‚ concurrent ad rectam ACB per centrum Figurae δε 7
+puncta contactuum A, B transeuntem..
+
+LEMss ⁷
+

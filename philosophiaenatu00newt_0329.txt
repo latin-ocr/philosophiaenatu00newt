@@ -1,0 +1,49 @@
+PRINCIPIA MATHEMATICA. 285
+
+Defignet jam V velocitatem maximam in oscillatione quavis ‚ ὲὲῑζῡξδμ
+„sintque A, Β, C· uantitates datae ‚ & fingamus quod differentia Π ’
+arcuum fit Ava- V÷÷CV². Cum velocitates maximae fint in
+Cycloide ut semisses arcuum oscillando descriptorum ‚ in Circu-
+lo vero ut semiffium arcuum illorum chordae ‚ adeoque paribus
+arcubus majores fint in Cycloide quam in Circulo , in ratione se-
+miffium *arcuum ad eorundem chordas ς · tempora autem in Cir-
+culor sint majora quam in Cycloide in velocitatis rarione reci-
+proca; patet arcuum differentias (quae sunt ut refistentia δε qua-
+dratum temporis conjunctim) easdem fore, quamproxime , in utra-
+que Curva: deberent enim differentiae illae in Cycloide augeri,
+una cum resistentia, in duplicata circiter ratione arcus ad chordam,
+ob velocitatemin ratione illa fimplici ausscam3 & diminui, una curn
+quadr-ato temporis, in eadem duplicata ratione. Itaque ut redufflo
+fiat ad Cycloidem‚ eaedem sumendae sunt arcuum differentiae quae
+fuerunt in Circulo observatae ‚ velocitates vero maximae ponendae
+sunt arcubus dimidiatis vel integris, hoc est , numeris 1 , 1 , 2, 4,
+8, 16 analogae. Scribamus ergo in casu secundo , quarto δε sex-
+to numeros 1 ‚ 4 & 16 pro ‘V ‚* & prodibit3 arcuum differentia
+
+33³3=A4B÷C in casu, ἷεωηάοςῇ-ὲ--4 A -ι- 8 BQ- 16 C in ca-
+8
+
+su quart03 δε ῖΖ--τ 16 A -ι- 64 B -ι- 256 C in casu sexto. Et ex his
+
+aequationibus, pei⁴3 debitam collationem & redufflonem Analyticam,
+fit A=o, 0000916, ss=0‚ 0010847, & C=o, 0029558. Est igitur
+differentia arcuum uto‚oooo916 V÷0,0010847V ³2-i-o‚0029558V²:
+δε propterea cum (per Corollarium Propofitionis xxx) resistentia
+Globi in medio arcus oscillando descripti, ubi velocitas est V, s1t
+ad ipfius pondus ut r} A V -i-{ffss V ffi—gCV ² ad longitudinem Pen-
+duli; fi pro A, B & C scribantur numeri inventi, fiet resistentia Glo-
+bi ad ejus pondus, ,ut o ,0000583 V÷0‚0007546 V ³2÷0‚0022169V²
+ad longitudinem Penduli inter centrum suspensionis & Regulam»
+id est, ad 121 digitos. Unde cum V in casu secundo designet 1,
+
+“ in quarto 4 , in sexto 16: erit resistentia ad pondus Globi in casu
+
+secundo utve, 0030298 ad 121 , in quarto ut 0,o417402 ad ‚121 , in
+sexto ut o,61675 ad 121. .
+Ι Arcus quemypunRum in filonostatum in casu sexto descripfim
+
+erat 120 - ἒς seu 119 3³2- digitorum. Et propterea cum· radius esset
+
+. 121, digitorum³2 δε, longitudo Pencffili inter punfium suspensior&
+. n Ξ f
+

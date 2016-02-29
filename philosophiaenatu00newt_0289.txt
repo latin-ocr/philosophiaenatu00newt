@@ -1,0 +1,47 @@
+PRINCIPIA MATHEM‘ATICA. 247
+
+decrementum est ipfius GD , erit reciproce ut EQ), adeoque di· [anm
+reete ut CD, hoc est, ut summa ejusdem GD ἃ longitudinis da- Sacusnus.
+tae C G. Sed velocitatis decrementum, tempore fibi reciproce pro-
+portionali, q‘uo data spatii particula ‘DdeE describitur ‚ est ut re-
+fistentia &tempus conjunctim ‚ id est, dir-edic ut summa duarum
+quantitatum, quarum una est ut velocitas, altera ut velocitatis qua-
+dratum, (Sc inverse ut velocitas; adeoque directe ut summa duarum
+quantitatum, quarum una datur, altera est ut velocitas. Igitur de-
+crementum tam velocitatis quam lineae G‘D ‚ est ut quantitas data
+δε quantitas decrescens conjunctim , & propter analoga decre-
+menta , analogae semper erunt quantitates decrescentes: nimirum
+velocitas δε linea G‘D. QE. . ⁷ ·
+
+Corol. 1. Igitur s1 velocitas exponatur per longitudinemGD, spa-
+tium descriptum erit ut area Hyperbolica· ‘D E S R. ,
+⁷ Corol. 2. Etsi utcunque assumatur puneum R ‚ invenietur punc-
+tum Gt, capiendo GR ad G D ‚ ut est velocitas sub initio ad ve-
+locitatem post spatium quodvis RSED descriptum. Invento au-
+tem puncto G, datur spatium ex data velocitate, & contra.
+
+Corol. 3- Unde cum ‚ per Prop. XI , detur velocitas ex dato tem-
+pore, & per hanc propositionem detur spatium ex data velocitate 31
+dabitur spatium ex dato tempore, & contra.
+
+PROPOSITIO XIII. THEOREM'A X.
+
+Postto quod Corpus ab uniformi gravitate deorstrm attraelum*
+reHa ascendit vel descendit, &³ quod eidem reszstitnrpar-
+tim in ratione velocitatis, partim in ejusdem ratione du-
+plicata: dico quodfi Circnli &³ Hyperbolae diametris pa-
+rallelae reffi‘ae per conjugatarum diametrorum terminos
+ducantur , ΕΘ) velocitates fint ut segmenta quaedam paral-
+lelarum a dato—punffo duffio ‚ Tempora erth m arearum
+S efflares ‚ molis a centro adfhgmentorum terminos dnHis
+
+absctffi' : &³ contra.
+
+Cas 1. Ponamus primo quod corpus ascendit ‚ centroque D δε
+semidiametro quovis ‘D Β describatur Circuli quadrans Β E TF , &
+per semidiametri ‘D Β terminum Β agatur infinita BAP ‚ semidia-
+metro DFparallela. In ea detur punftum A, δε capiatur segmen-
+
+tum A P velocitati proportionale. Et cum resistentiae pars aliqua fit
+’ ut
+

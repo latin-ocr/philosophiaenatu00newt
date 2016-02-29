@@ -1,0 +1,51 @@
+56 PHILOSOPHIAE NATURALIS
+
+w latera recia principalia sunt aequalia‚ velocitas corporis est reciproce
+
+ut perpendiculum demissum ab umbilico ad tangentem.
+Corol. 6. In parabola, velocitas est reciproce in subduplicata
+
+ν ratione di'stantiae corporis ab umbilico figurae; in Ellipfi magis va.
+
+riatur, in Hyperbola minus, quam in hac ratione. Nam (per Co-
+rol. 2. Lem. xm.) perpendiculum demissum ab umbilico ad tangen-
+tem Parabolae est in subduplicata ratione distantiae. In Hyperbola
+‘perpendiculum minus variatur, in Ellipfi magis.
+
+Corol. 7. In· Parabola velocitas corporis ad quamvis ab umbili-
+co distantiam , est ad velocitatem corporis revolventis in Circulo
+ad eandem a centro distantiam, in subduplicata ratione numeri
+binarii ad unitatem; in Ellipfi minor est, in Hyperbola major
+quam in hac ratione. Nam perhujus Corollarium secundum, ve-
+locitas in vertice Parabolae est in hac ratione , & per Corollaria
+sexta hujus δε P1·0pos1tionis quartae ‚ servatur eadem proportio in
+omnibus distantiis. Hinc etiam in Parabola velocitas ubique aequalis
+est velocitati corporis revolventis in Circulo ad dimidiam distantiam,
+in Ellipfi minor est, in Hyperbola major.
+
+Corol. 8. Velocitas gyrantis in Sectione quavis Conica est ad ve-
+locitatem gyrantis in Circulo in distantia dimidii lateris reffi princi-
+palis Seffionis ‚ ut distantia illa ad perpendiculum ab umbilico in tan-
+gentem Sefflonis demissum. Patet per Corollarium quintum.
+
+Corol. 9. Unde cum (per Corol. 6. Prop. 1v.) velocitas gyran-
+tis in hoc Circulo fit ad velocitatem gyrantis in Circulo quovis
+alio ‚ reciproce in subduplicata ratione distantiarum3 fiet ex aequo
+velocitas gyrantis in Conica sefiione ad velocitatem gyrantis in
+Circulo in eadem distantia, ut media proportionalis inter distan-
+tiam illam communem & semiffem principalis lateris reffl sectio-
+nis , ad perpendiculum ab umbilico communi in tangentem sefiionis
+
+demissum.
+
+PROPOSITIO XVII. PROBLEMA IX.
+
+Postto quod vis centripeta fit reciproce proportionalis quass
+drato distantiae locorum a centro, Ea* quod vis illius quan-
+zitas absoluta fit cognita3 requiritur Linea quam corpus
+describit, de loco dato , cum data velocitate ‚ fi’cimdum ,
+datam rebium egrediens. ·
+
+Vis centripeta tendens ad puncium S ea fit qua corpus p in or-
+bita quavis datapq gyretur, & cognoscatur hujus velocitas in 100on
+

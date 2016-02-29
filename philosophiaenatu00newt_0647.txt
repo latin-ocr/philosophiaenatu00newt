@@ -1,0 +1,49 @@
+›TE2RT110R1DJNIS- 2⁷
+
+VII. construam aquationum per descrzptionem
+“ ’ Curvarum.
+
+Curvarum usus in Geometria est ut per earum intersefflones Pro-
+blemata solvantur. Proponatur aequatio construenda dimenfionum
+novem
+
+s x⁹*÷bx⁷÷cx⁶÷ dx⁵÷ex⁴÷fx³÷gx²÷hx÷k=0.
+. ÷m
+
+Ubi b, c, d, δῖε. significant quantitates quasvis datas fignis suis ’θ’
+&-affe&as. Affumatur aequatio ad Parabolam cubicam x³=y‚ &
+aequatio prior, scribendo y pro x³‚ evadet
+
+y³÷bxy²÷cy²÷dxjy÷exy÷my÷fx³÷gx²÷hx÷k=0,
+aequatio ad Curvam aliam secundi Generis. Ubi m vel f deesse'sspotest
+vel pro lubitu assumi. Et per harum Curvarum descriptiones & in·-
+terseftiones dabuntur radices aequationis construendae. parabolam
+cubicam semel describere sufficit.
+
+· Si aequatio construenda per defedium duorum terminorum ultimo-
+rum hx & k reducatur ad septem dimenfiones ‚ Curva altera delendo
+m, habebit Punfftum Duplex in principio Absciffee ‚ &inde facile des-
+cribi potest ut supra.
+
+¹Si aequatio construenda per defefflum terminorum trium ultimo-
+. rum gx²÷hx÷k reducatur ad sex dimensiones ‚ Curva altera delendo
+
+fevadet sefflo Conica.
+
+Et fi per defectum sex ultimorum terminorum aequatio construen-
+da reducatur ad tres dimensiones, incidetur in constructionem Wal-
+listanam per parabolam cubicam δε Lineam rectam.
+
+Conssrui etiam possunt aequationes per Hyperbolismum Parabolae
+curn diametro. Ut s1 construenda fit haec aequatio dimensionum no<
+vern termino penultimo carens,
+
+a÷cx²÷dx³ea4÷flc⁵÷gx⁶÷hx⁷÷kx⁸÷lx⁹=0;v
+
+-ἳ- m
+Affumatur aequatio ad Hyperboiismum illum x²y=1, & scribendoy
+pro ἐξ, aequatio construenda vertetur in hanc
+ay³÷cy²÷d25y²÷ey÷fivy÷m y÷g÷l2x÷kx2÷lx³zQ
+quae curram secundi Generis defigffiat cujus descriptione Probleffia
+0 α
+
